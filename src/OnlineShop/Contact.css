@@ -1,0 +1,21 @@
+.center {
+  text-align: center;
+  display: flex;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-color: black;
+}
+.contact {
+  margin: 100px;
+}
+.rightText {
+  width: 70%;
+  text-align: center;
+  background-color: #f1f1f1;
+}

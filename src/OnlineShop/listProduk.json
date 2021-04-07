@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nama": "Notebook ASUS M509BA-HD421 2019",
+      "harga": 5160000,
+      "gambar": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROT8GWBSz4rpN2EQnMAa70fE-yKrzdXOGNQ57vJUievrqjq59CHtIm_CIzfpet2GDeIu8p75dnUAHdXc-hIT0hlMZEYOIo-h4eWC493Q6Vb4Pdo4_T8BAerw&usqp=CAE",
+      "stok": 5
+    },
+    {
+      "id": 2,
+      "nama": "LENOVO LAPTOP FLEX 3 2DID INTEL CELERON N4020",
+      "harga": 5000000,
+      "gambar": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_t3FMn9DEvMt1a5l9lJs20SsFF-35oADimc1CAU92DwgnFfJ7naJ2_bGHyvPpXfRAhLNhJG5hCvRXQ1fIeOfqFwYhVgz1VIb482xHP9tBIFWDSJI3kiIX&usqp=CAE",
+      "stok": 6
+    },
+    {
+      "id": 3,
+      "nama": "Asus tuf FX505GD Laptop Gaming Red Matter",
+      "harga": 7000000,
+      "gambar": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSU7hyEdSictNJzrzAvVxd2ID02RDdgoFxCY-LL0gnZIXFdtJubu7Kl2c9uJeqemAxVLlIc53DavzlRw1edERSTXenNRoX9PbjerEQa0ctZD83oJLQ18MI&usqp=CAE",
+      "stok": 5
+    },
+    {
+      "id": 4,
+      "nama": "HP Probook G5",
+      "harga": 8000000,
+      "gambar": "https://id-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/2/1/21u62pa.png",
+      "stok": 5
+    },
+    {
+      "id": 5,
+      "nama": "Laptop asus x200ma",
+      "harga": 1600000,
+      "gambar": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRwVitofsiI1GpobsJVSjrcIQxSbY3ljnq3Ojtyyg2sVPALzebCciq6XPv-Cf02y_z7LFnoLgjahorclTnCgYXihIndXK-hXgOSl3xLcmb&usqp=CAE",
+      "stok": 5
+    },
+    {
+      "id": 6,
+      "nama": "LAPTOP ASUS X441S MURAH BATERAI AWET",
+      "harga": 1800000,
+      "gambar": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3fKv0BdbWyLRILs3SVZD9WO5SBEa4304nxD6d4DgbJPxNSpbNAODEiWQeAEexQOMQ9kwb4cFVRQaE3yb_BQOQEocjycxVZUKH-qmnE7GxydzyRr8BECM40g&usqp=CAE",
+      "stok": 5
+    },
+    {
+      "id": 7,
+      "nama": "ASUS NOTEBOOK X200MA |RAM 2GB |HDD 500GB",
+      "harga": 2850000,
+      "gambar": "data:image/webp;base64,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",
+      "stok": 10
+    },
+    {
+      "id": 8,
+      "nama": "ASUS 11.6i nch 32GB Chromebook ",
+      "harga": 3000000,
+      "gambar": "https://static.bhphoto.com/images/images500x500/asus_c223na_dh02_rd_chromebook_n3350_1_6ghz_4gb_1567081360_1502341.jpg",
+      "stok": 5
+    },
+    {
+      "nama": "HP Probook G5",
+      "harga": 8000000,
+      "gambar": "https://id-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/2/1/21u62pa.png",
+      "stok": 5
+    },
+    {
+      "id": 10,
+      "nama": "LAPTOP ASUS X441S MURAH BATERAI AWET",
+      "harga": 1800000,
+      "gambar": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3fKv0BdbWyLRILs3SVZD9WO5SBEa4304nxD6d4DgbJPxNSpbNAODEiWQeAEexQOMQ9kwb4cFVRQaE3yb_BQOQEocjycxVZUKH-qmnE7GxydzyRr8BECM40g&usqp=CAE",
+      "stok": 5
+    }
+  ]
+}
